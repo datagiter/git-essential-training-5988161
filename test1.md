@@ -1,3 +1,0 @@
-This is a test file for testing out GIT
-
-Testing out changes
